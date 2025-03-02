@@ -1,16 +1,16 @@
-#Student Management System
-#Overview
+__Student Management System__
+__Overview__
 The Student Management System is a simple project that allows users to manage student data. Users can add, delete, update, and view student information through this system.
 
-#Features
-#Add Student:
+__Features__  
+__Add Student:__
 Add new students with relevant details such as name, age, and grade.
 
-#Delete Student: 
+__Delete Student:__ 
 Remove a student from the system using their unique identifier.
 
-#Update Student:
+__Update Student:__
 Modify the details of an existing student.
 
-#View Student:
+__View Student:__
 View the list of all students or search for specific students.
